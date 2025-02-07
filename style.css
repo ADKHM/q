@@ -1,0 +1,43 @@
+h1{
+    background-color: rgb(165, 165, 246);
+    text-align: center;
+    border: 3px solid red;
+    border-radius: 20px;
+}
+.liyashil{
+    color: green;
+}
+.qizil{
+    color: red;
+}
+.sariq{
+    color: yellow;
+}
+.grey{
+    color: grey;
+}
+th{
+    background-color: red;
+}
+caption{
+    background-color: yellow;
+}
+table{
+    border-collapse: collapse;
+}
+#tesla{
+    background-color: green;
+}
+td{
+    background-color: blueviolet;
+}
+button{
+   background-color: rgb(76, 250, 76);
+   border: none;
+   text-align: center;
+   width: 150px;
+   height: 25px;
+}
+#span3{
+    text-align: center;
+}
